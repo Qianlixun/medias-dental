@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:225
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:225.000000,
+dental-超声波龈上洁牙术护士-00000.ts
+#EXTINF:225.000000,
+dental-超声波龈上洁牙术护士-00001.ts
+#EXTINF:216.666667,
+dental-超声波龈上洁牙术护士-00002.ts
+#EXTINF:225.000000,
+dental-超声波龈上洁牙术护士-00003.ts
+#EXTINF:34.566667,
+dental-超声波龈上洁牙术护士-00004.ts
+#EXT-X-ENDLIST
